@@ -4,9 +4,9 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 #/* This is going to be a basic calculator for my first project*/
 
-def add(x,y):
+def addition(x,y):
     return x+y
-def subtract(x,y):
+def subtraction(x,y):
     return x-y
 def multiplication(x,y):
     return x*y
